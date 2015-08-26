@@ -32,6 +32,30 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="Armour.cpp" />
+		<Unit filename="Armour.h" />
+		<Unit filename="Arms.cpp" />
+		<Unit filename="Arms.h" />
+		<Unit filename="ArmsArray.cpp" />
+		<Unit filename="ArmsArray.h" />
+		<Unit filename="ArrayPrinter.cpp" />
+		<Unit filename="Chest.cpp" />
+		<Unit filename="Chest.h" />
+		<Unit filename="ChestArray.cpp" />
+		<Unit filename="ChestArray.h" />
+		<Unit filename="DataArray.cpp" />
+		<Unit filename="DataArray.h" />
+		<Unit filename="GenID.cpp" />
+		<Unit filename="GenID.h" />
+		<Unit filename="Head.cpp" />
+		<Unit filename="Head.h" />
+		<Unit filename="HeadArray.cpp" />
+		<Unit filename="HeadArray.h" />
+		<Unit filename="Legs.cpp" />
+		<Unit filename="Legs.h" />
+		<Unit filename="LegsArray.cpp" />
+		<Unit filename="LegsArray.h" />
+		<Unit filename="PureArmour.h" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<code_completion />

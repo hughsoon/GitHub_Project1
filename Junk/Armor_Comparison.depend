@@ -1,35 +1,36 @@
 # depslib dependency file v1.0
-1439410861 source:/Users/hugh/Documents/Cpp_projects/Armor_Comparison/main.cpp
+1440430221 source:/Users/hugh/Documents/Cpp_projects/Armor_Comparison/main.cpp
 	"HeadArray.h"
 	"ChestArray.h"
 	"ArmsArray.h"
 	"LegsArray.h"
 	"DataArray.h"
+	"PureArmour.h"
 	<iostream>
 
-1439412930 /Users/hugh/Documents/Cpp_projects/Armor_Comparison/Armour.h
+1439746099 /Users/hugh/Documents/Cpp_projects/Armor_Comparison/Armour.h
 	"Head.h"
 	"Chest.h"
 	"Arms.h"
 	"Legs.h"
 
-1439410411 /Users/hugh/Documents/Cpp_projects/Armor_Comparison/Head.h
+1439910766 /Users/hugh/Documents/Cpp_projects/Armor_Comparison/Head.h
 	<string>
 	<iostream>
 
-1439410406 /Users/hugh/Documents/Cpp_projects/Armor_Comparison/Chest.h
+1439551603 /Users/hugh/Documents/Cpp_projects/Armor_Comparison/Chest.h
 	<string>
 	<iostream>
 
-1439410388 /Users/hugh/Documents/Cpp_projects/Armor_Comparison/Arms.h
+1439551631 /Users/hugh/Documents/Cpp_projects/Armor_Comparison/Arms.h
 	<string>
 	<iostream>
 
-1439410416 /Users/hugh/Documents/Cpp_projects/Armor_Comparison/Legs.h
+1439551628 /Users/hugh/Documents/Cpp_projects/Armor_Comparison/Legs.h
 	<string>
 	<iostream>
 
-1439396612 /Users/hugh/Documents/Cpp_projects/Armor_Comparison/HeadArray.h
+1440363175 /Users/hugh/Documents/Cpp_projects/Armor_Comparison/HeadArray.h
 	"Head.h"
 
 1439396840 /Users/hugh/Documents/Cpp_projects/Armor_Comparison/ChestArray.h
@@ -44,7 +45,7 @@
 1439309478 /Users/hugh/Documents/Cpp_projects/Armor_Comparison/DataArray.h
 	"Armour.h"
 
-1439409771 source:/Users/hugh/Documents/Cpp_projects/Armor_Comparison/Armour.cpp
+1439746121 source:/Users/hugh/Documents/Cpp_projects/Armor_Comparison/Armour.cpp
 	"Armour.h"
 
 1439396781 source:/Users/hugh/Documents/Cpp_projects/Armor_Comparison/ArmsArray.cpp
@@ -56,7 +57,7 @@
 1439308901 source:/Users/hugh/Documents/Cpp_projects/Armor_Comparison/DataArray.cpp
 	"DataArray.h"
 
-1439396601 source:/Users/hugh/Documents/Cpp_projects/Armor_Comparison/HeadArray.cpp
+1439925856 source:/Users/hugh/Documents/Cpp_projects/Armor_Comparison/HeadArray.cpp
 	"HeadArray.h"
 
 1439396858 source:/Users/hugh/Documents/Cpp_projects/Armor_Comparison/LegsArray.cpp
@@ -70,11 +71,25 @@
 	"Chest.h"
 	<iostream>
 
-1439408909 source:/Users/hugh/Documents/Cpp_projects/Armor_Comparison/Legs.cpp
+1440428253 source:/Users/hugh/Documents/Cpp_projects/Armor_Comparison/Legs.cpp
 	"Legs.h"
 	<iostream>
 
 1439396036 source:/Users/hugh/Documents/Cpp_projects/Armor_Comparison/Head.cpp
 	"Head.h"
 	<iostream>
+
+1439746150 /Users/hugh/Documents/Cpp_projects/Armor_Comparison/PureArmour.h
+	"Armour.h"
+
+1440430883 source:/Users/hugh/Documents/Cpp_projects/Armor_Comparison/ArrayPrinter.cpp
+	"HeadArray.h"
+	<string>
+	<fstream>
+	<iomanip>
+	"GenID.h"
+
+1440428353 /Users/hugh/Documents/Cpp_projects/Armor_Comparison/GenID.h
+
+1440428517 source:/Users/hugh/Documents/Cpp_projects/Armor_Comparison/GenID.cpp
 

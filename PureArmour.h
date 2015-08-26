@@ -1,6 +1,8 @@
 #ifndef PUREARMOUR_H_INCLUDED
 #define PUREARMOUR_H_INCLUDED
 
+#include "Armour.h"
+
 class PureArmour
 {
 private:
@@ -14,8 +16,19 @@ public:
     {
     }
 
-    PureArmour(double phys, mag, fire, light): m_physMod(phys), m_magMod(mag), m_fireMod(fire), m_lightMod(light)
+    PureArmour(double phys, double mag, double fire, double light): m_physMod(phys), m_magMod(mag), m_fireMod(fire), m_lightMod(light)
     {
+    }
+
+    void scale(Armour &newSet)
+    {
+        newSet.modPhysArmour = newSet.regPhysArmour * m_physMod;
+        newSet.modMagArmour = newSet.regMagArmour * m_magMod;
+        newSet.modFireArmour = newSet.regFireArmour * m_fireMod;
+        newSet.modLightArmour = newSet.regLightArmour * m_lightMod;
+
+        newSet.totalModArmour = newSet.modPhysArmour + newSet.modMagArmour + newSet.modFireArmour +
+                                newSet.modLightArmour;
     }
 };
 

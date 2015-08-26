@@ -29,6 +29,12 @@ public:
     Head& operator[] (int index);
     void Erase();
 
+
+    //Declarations from the ArrayPrinter file.
+    void Export(string filename);
+    void Resize(int newSize);
+    void Add(string name, int phys, int mag, int fire, int light, double weight);
+
 };
 
 #endif // HEADARRAY_H_INCLUDED

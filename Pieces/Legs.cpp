@@ -4,6 +4,7 @@
 ostream& operator<< (ostream &out, const Legs &subjectLegs)
     {
         out << subjectLegs.m_name;
+
         return out;
     }
 

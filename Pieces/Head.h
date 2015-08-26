@@ -40,6 +40,11 @@ public:
 //        m_weight = sourceHead.m_weight;
 //    }
 
+    int getPhys() {return m_physical;}
+    int getMag() {return m_magic;}
+    int getFire() {return m_fire;}
+    int getLight() {return m_lightning;}
+
     int getTotal() {return m_total;}
     double getWeight() {return m_weight;}
     string getName() {return m_name;}
