@@ -1,6 +1,7 @@
 #ifndef HEADARRAY_H_INCLUDED
 #define HEADARRAY_H_INCLUDED
 #include "Head.h"
+#include "ArrayReader.h"
 
 class HeadArray
 {

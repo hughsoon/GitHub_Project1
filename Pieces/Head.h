@@ -49,6 +49,8 @@ public:
     double getWeight() {return m_weight;}
     string getName() {return m_name;}
 
+    void setValues(string name, int phys, int mag, int fire, int light, double weight);
+
     friend ostream& operator<< (ostream &out, const Head &subjectHead);
 
     Head& operator= (const Head &sourceHead);

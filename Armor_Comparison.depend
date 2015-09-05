@@ -1,0 +1,111 @@
+# depslib dependency file v1.0
+1441301673 source:/Users/hugh/GitHub/GitHub_Project1/Armour.cpp
+	"Armour.h"
+
+1440557446 /Users/hugh/GitHub/GitHub_Project1/Armour.h
+	"Head.h"
+	"Chest.h"
+	"Arms.h"
+	"Legs.h"
+
+1441302626 source:/Users/hugh/GitHub/GitHub_Project1/main.cpp
+	"HeadArray.h"
+	"ChestArray.h"
+	"ArmsArray.h"
+	"LegsArray.h"
+	"DataArray.h"
+	"PureArmour.h"
+	"ArrayReader.h"
+	<iostream>
+
+1440557446 /Users/hugh/GitHub/GitHub_Project1/PureArmour.h
+	"Armour.h"
+
+1441453469 /Users/hugh/GitHub/GitHub_Project1/Pieces/Head.h
+	<string>
+	<iostream>
+
+1440558408 /Users/hugh/GitHub/GitHub_Project1/Pieces/Chest.h
+	<string>
+	<iostream>
+
+1440558408 /Users/hugh/GitHub/GitHub_Project1/Pieces/Arms.h
+	<string>
+	<iostream>
+
+1440558408 /Users/hugh/GitHub/GitHub_Project1/Pieces/Legs.h
+	<string>
+	<iostream>
+
+1441452706 /Users/hugh/GitHub/GitHub_Project1/Arrays/HeadArray.h
+	"Head.h"
+	"ArrayReader.h"
+
+1440558408 /Users/hugh/GitHub/GitHub_Project1/Arrays/ChestArray.h
+	"Chest.h"
+
+1440558408 /Users/hugh/GitHub/GitHub_Project1/Arrays/ArmsArray.h
+	"Arms.h"
+
+1440558408 /Users/hugh/GitHub/GitHub_Project1/Arrays/LegsArray.h
+	"Legs.h"
+
+1440801902 /Users/hugh/GitHub/GitHub_Project1/Arrays/DataArray.h
+	"Armour.h"
+
+1440623801 source:/Users/hugh/GitHub/GitHub_Project1/ArrayPrinter.cpp
+	"Arrays/HeadArray.h"
+	<string>
+	<fstream>
+	<iomanip>
+	"GenID.h"
+
+1440558408 /Users/hugh/GitHub/GitHub_Project1/genID/GenID.h
+
+1441446643 source:/Users/hugh/GitHub/GitHub_Project1/ArrayReader.cpp
+	<iostream>
+	<fstream>
+	<iostream>
+	<string>
+
+1440558408 source:/Users/hugh/GitHub/GitHub_Project1/Arrays/ArmsArray.cpp
+	"ArmsArray.h"
+
+1440558408 source:/Users/hugh/GitHub/GitHub_Project1/Arrays/ChestArray.cpp
+	"ChestArray.h"
+
+1440558408 source:/Users/hugh/GitHub/GitHub_Project1/Arrays/DataArray.cpp
+	"DataArray.h"
+
+1440558408 source:/Users/hugh/GitHub/GitHub_Project1/Arrays/HeadArray.cpp
+	"HeadArray.h"
+
+1440558408 source:/Users/hugh/GitHub/GitHub_Project1/Arrays/LegsArray.cpp
+	"LegsArray.h"
+
+1440558408 source:/Users/hugh/GitHub/GitHub_Project1/genID/GenID.cpp
+
+1440558408 source:/Users/hugh/GitHub/GitHub_Project1/Pieces/Arms.cpp
+	"Arms.h"
+	<iostream>
+
+1440558408 source:/Users/hugh/GitHub/GitHub_Project1/Pieces/Chest.cpp
+	"Chest.h"
+	<iostream>
+
+1440558408 source:/Users/hugh/GitHub/GitHub_Project1/Pieces/Head.cpp
+	"Head.h"
+	<iostream>
+
+1440558408 source:/Users/hugh/GitHub/GitHub_Project1/Pieces/Legs.cpp
+	"Legs.h"
+	<iostream>
+
+1441452685 /Users/hugh/GitHub/GitHub_Project1/ArrayReader.h
+
+1440557446 /Users/hugh/GitHub/GitHub_Project1//Armour.h
+	"Head.h"
+	"Chest.h"
+	"Arms.h"
+	"Legs.h"
+

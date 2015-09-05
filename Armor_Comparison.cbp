@@ -13,6 +13,10 @@
 				<Option compiler="gcc" />
 				<Compiler>
 					<Add option="-g" />
+					<Add directory="../GitHub_Project1" />
+					<Add directory="Arrays" />
+					<Add directory="Pieces" />
+					<Add directory="genID" />
 				</Compiler>
 			</Target>
 			<Target title="Release">
@@ -34,28 +38,29 @@
 		</Compiler>
 		<Unit filename="Armour.cpp" />
 		<Unit filename="Armour.h" />
-		<Unit filename="Arms.cpp" />
-		<Unit filename="Arms.h" />
-		<Unit filename="ArmsArray.cpp" />
-		<Unit filename="ArmsArray.h" />
 		<Unit filename="ArrayPrinter.cpp" />
-		<Unit filename="Chest.cpp" />
-		<Unit filename="Chest.h" />
-		<Unit filename="ChestArray.cpp" />
-		<Unit filename="ChestArray.h" />
-		<Unit filename="DataArray.cpp" />
-		<Unit filename="DataArray.h" />
-		<Unit filename="GenID.cpp" />
-		<Unit filename="GenID.h" />
-		<Unit filename="Head.cpp" />
-		<Unit filename="Head.h" />
-		<Unit filename="HeadArray.cpp" />
-		<Unit filename="HeadArray.h" />
-		<Unit filename="Legs.cpp" />
-		<Unit filename="Legs.h" />
-		<Unit filename="LegsArray.cpp" />
-		<Unit filename="LegsArray.h" />
+		<Unit filename="ArrayReader.cpp" />
+		<Unit filename="Arrays/ArmsArray.cpp" />
+		<Unit filename="Arrays/ArmsArray.h" />
+		<Unit filename="Arrays/ChestArray.cpp" />
+		<Unit filename="Arrays/ChestArray.h" />
+		<Unit filename="Arrays/DataArray.cpp" />
+		<Unit filename="Arrays/DataArray.h" />
+		<Unit filename="Arrays/HeadArray.cpp" />
+		<Unit filename="Arrays/HeadArray.h" />
+		<Unit filename="Arrays/LegsArray.cpp" />
+		<Unit filename="Arrays/LegsArray.h" />
+		<Unit filename="Pieces/Arms.cpp" />
+		<Unit filename="Pieces/Arms.h" />
+		<Unit filename="Pieces/Chest.cpp" />
+		<Unit filename="Pieces/Chest.h" />
+		<Unit filename="Pieces/Head.cpp" />
+		<Unit filename="Pieces/Head.h" />
+		<Unit filename="Pieces/Legs.cpp" />
+		<Unit filename="Pieces/Legs.h" />
 		<Unit filename="PureArmour.h" />
+		<Unit filename="genID/GenID.cpp" />
+		<Unit filename="genID/GenID.h" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<code_completion />

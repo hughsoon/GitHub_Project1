@@ -1,4 +1,4 @@
-#include "HeadArray.h"
+#include "Arrays/HeadArray.h"
 #include <string>
 #include <fstream>
 #include <iomanip>

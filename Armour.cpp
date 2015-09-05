@@ -20,5 +20,4 @@ void Armour::setValues(Head head, Chest chest, Arms arms, Legs legs)
     regFireArmour = helmet.getFire() + breastplate.getFire() + gauntlets.getFire() + greaves.getFire();
     regLightArmour = helmet.getLight() + breastplate.getLight() + gauntlets.getLight() + greaves.getLight();
 
-
 }

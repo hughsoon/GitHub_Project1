@@ -4,6 +4,7 @@
 #include "LegsArray.h"
 #include "DataArray.h"
 #include "PureArmour.h"
+#include "ArrayReader.h"
 #include <iostream>
 
 using namespace std;
@@ -236,7 +237,7 @@ int main()
 //    Head NewHelm = Havels_Helm;
 //    cout << NewHelm;
 
-    Helmets.Export("HeadConfig.txt");
+    readfile("HeadConfig.txt");
 
     //Preset the trial armour and the list of successful candidates.
     DataArray ArmourList(10);
