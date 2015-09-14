@@ -26,8 +26,15 @@ public:
     }
 
     int getLength() {return m_nLength;}
+
     Arms& operator[] (int index);
+    void Add(string name, int phys, int mag, int fire, int light, double weight);
     void Erase();
+    void Resize(int newSize);
+
+    void readfile(string file);
+
+    void Export(string filename);
 
 };
 

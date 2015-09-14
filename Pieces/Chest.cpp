@@ -19,3 +19,14 @@ Chest& Chest::operator= (const Chest &sourceChest)
 
         return *this;
     }
+
+void Chest::setValues(string name, int phys, int mag, int fire, int light, double weight)
+{
+    m_name = name;
+    m_physical = phys;
+    m_magic = mag;
+    m_fire = fire;
+    m_lightning = light;
+    m_total = phys + mag + fire + light;
+    m_weight = weight;
+}

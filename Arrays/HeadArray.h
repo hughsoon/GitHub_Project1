@@ -1,7 +1,6 @@
 #ifndef HEADARRAY_H_INCLUDED
 #define HEADARRAY_H_INCLUDED
 #include "Head.h"
-#include "ArrayReader.h"
 
 class HeadArray
 {
@@ -27,14 +26,15 @@ public:
     }
 
     int getLength() {return m_nLength;}
+
     Head& operator[] (int index);
-    void Erase();
-
-
-    //Declarations from the ArrayPrinter file.
-    void Export(string filename);
-    void Resize(int newSize);
     void Add(string name, int phys, int mag, int fire, int light, double weight);
+    void Erase();
+    void Resize(int newSize);
+
+    void readfile(string file);
+
+    void Export(string filename);
 
 };
 

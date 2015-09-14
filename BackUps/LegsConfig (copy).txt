@@ -1,0 +1,31 @@
+Name				Type	ID	Phys	Mag	Fire	Light	Weight
+------------------------------------------------------------------------------------------
+UNEQUIPPED                         L	   0	   0	   0	   0	   0	   0
+Knight Leggings                    L	   1	  22	  10	  11	   8	 6.4
+Elite Knight Leggings              L	   2	  23	  11	  11	   9	 6.9
+Wanderer Boots                     L	   3	  14	  12	  15	  13	 2.1
+Black Leather Boots                L	   4	  12	  19	  13	  15	   3
+Leather Boots                      L	   5	  12	  12	   6	  13	 2.8
+Eastern Leggings                   L	   6	  15	   5	  11	   6	   4
+Shadow Leggings                    L	   7	  13	   7	   9	  10	 1.4
+Hollow Warrior Waistcloth          L	   8	  13	   8	   6	   8	 1.4
+Silver Knight Leggings             L	   9	  28	  15	  16	  19	 6.5
+Leggings of Favour                 L	  10	  28	  14	  18	  11	 6.9
+Stone Leggings                     L	  11	  54	  27	  33	  33	10.4
+Havel's Leggings                   L	  12	  54	  32	  32	  29	11.5
+Hard Leather Boots                 L	   0	  13	  12	   7	  13	 3.5
+Chain Leggings                     L	   1	  18	  14	  12	   5	 4.6
+Brigand Trousers                   L	   2	  14	  12	   8	  10	 1.8
+Sorcerer Boots                     L	   3	  12	  16	   8	  10	 1.3
+Black Sorcerer Boots               L	   4	   8	  17	  12	  12	   1
+Heavy Boots                        L	   5	  12	  14	  18	  10	 1.6
+Holy Trousers                      L	   6	  14	  15	   8	  12	   2
+Iron Leggings                      L	   7	  21	  12	  12	  11	 5.3
+Black Iron Leggings                L	   8	  40	  17	  30	  13	 9.2
+Crystalline Leggings               L	   9	  37	  12	   9	   4	 6.4
+Crimson Wastecloth                 L	  10	  29	  29	  17	  21	 3.5
+Gold-Hemmed Black Skirt            L	  12	  23	  27	  49	  17	   3
+Maiden Skirt                       L	   0	  14	  27	  16	  21	 2.5
+Blood-Stained Skirt                L	   1	  13	  27	  16	  21	 2.5
+Black Knight Leggings              L	   2	  30	  15	  26	   9	   7
+Waistcloth of the Channelers       L	   3	  32	  27	  27	  20	   6
