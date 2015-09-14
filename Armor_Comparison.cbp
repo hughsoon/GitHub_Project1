@@ -35,11 +35,16 @@
 		<Compiler>
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
+			<Add directory="genID" />
+			<Add directory="Arrays" />
+			<Add directory="Pieces" />
+			<Add directory="../GitHub_Project1/" />
 		</Compiler>
 		<Unit filename="Armour.cpp" />
 		<Unit filename="Armour.h" />
 		<Unit filename="ArrayPrinter.cpp" />
 		<Unit filename="ArrayReader.cpp" />
+		<Unit filename="ArrayReader.h" />
 		<Unit filename="Arrays/ArmsArray.cpp" />
 		<Unit filename="Arrays/ArmsArray.h" />
 		<Unit filename="Arrays/ChestArray.cpp" />

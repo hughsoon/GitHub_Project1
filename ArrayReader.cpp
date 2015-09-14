@@ -2,6 +2,7 @@
 #include <fstream>
 #include <iostream>
 #include <string>
+#include "HeadArray.h"
 #include "Head.h"
 
 using namespace std;
@@ -37,15 +38,16 @@ void interpret(string line, string (&strArray)[8])
     }
 }
 
-int getFileLength(ifstream &file)
+int getFileLength(string file)
 {
+    ifstream infile(file);
     string blank;
     int counter = 0;
 
-    getline(file, blank);
-    getline(file, blank);
+    getline(infile, blank);
+    getline(infile, blank);
 
-    while(getline(file, blank))
+    while(getline(infile, blank))
         counter += 1;
 
     return counter;
@@ -54,16 +56,13 @@ int getFileLength(ifstream &file)
 
 //Opens the specified config file; skims the first two lines and then creates an array for each following line that can be
 //typecast and fed to the armour array classes.
-void readfile(string file)
+void readfile(string file, HeadArray &helmetArray)
 {
     ifstream infile(file);
     string line;
     string element[8];
     int counter = 0;
 
-    int fileLength = getFileLength(infile);
-
-    Head *HeadArray = new Head[fileLength];
     Head referenceHead;
 
     //First two lines..
@@ -79,7 +78,7 @@ void readfile(string file)
         referenceHead.setValues(element[0], stoi(element[3]), stoi(element[4]), stoi(element[5]), stoi(element[6]), stod(element[7]));
 
         //assign that reference to the array
-        HeadArray[counter] = referenceHead;
+        helmetArray[counter] = referenceHead;
 
         //increment counter
         counter++;
