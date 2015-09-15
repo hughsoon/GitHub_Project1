@@ -1,30 +1,30 @@
-Name				Type	ID	Phys	Mag	Fire	Light	Weight
+Name				Type	ID	Phys	Magic	Fire	Light	Weight
 ------------------------------------------------------------------------------------------
-UNEQUIPPED                         A	   0	   0	   0	   0	   0	   0
-Knight Gauntlets                   A	   1	  17	   7	   8	   4	 3.5
-Elite Knight Gauntlets             A	   2	  18	   7	   8	   5	 3.7
-Wanderer Manchetter                A	   3	  14	  12	  15	  13	 2.1
-Black Leather Gloves               A	   4	  13	  12	   8	   9	 1.8
-Leather Gloves                     A	   5	  12	  12	   6	  13	 2.8
-Eastern Gauntlets                  A	   6	   6	   1	   4	   2	 1.5
-Shadow Gauntlets                   A	   7	  13	   7	   9	  10	 1.4
-Silver Knight Gauntlets            A	   8	  25	  12	  14	  16	 5.5
-Gauntlets of Favour                A	   9	  21	  10	  12	   8	   5
-Stone Gauntlets                    A	  10	  54	  27	  33	  33	10.4
-Havel's Gauntlets                  A	  11	  54	  32	  32	  29	11.5
-Hard Leather Gauntlets             A	   0	  13	  12	   7	  13	 3.5
-Leather Gauntlets                  A	   1	  12	  10	   8	   4	 3.6
-Brigand Gauntlets                  A	   2	  14	  12	   8	  10	 1.8
-Sorcerer Gauntlets                 A	   3	  12	  16	   8	  10	 1.3
-Black Sorcerer Gauntlets           A	   4	   8	  17	  12	  12	   1
-Tattered Cloth Manchette           A	   5	  12	  14	  18	  10	 1.6
-Traveling Gloves                   A	   6	   5	   5	   3	   4	 0.7
-Iron Bracelet                      A	   7	  17	  10	  10	   9	 4.3
-Black Iron Gauntlets               A	   8	  40	  17	  30	  13	 9.2
-Crystalline Gauntlets              A	   9	  37	  12	   9	   4	 6.4
-Crimson Gloves                     A	  10	   7	   7	   4	   5	 0.8
-Gold-Hemmed Black Gloves           A	  11	  12	  13	  24	   8	 1.2
-Maiden Gloves                      A	   0	  11	  13	   8	  10	 1.2
-Dingy Gloves                       A	   1	   9	  13	   8	  10	 1.2
-Black Knight Gauntlets             A	   2	  26	  14	  23	   8	   6
-Gauntlets of the Channelers        A	   3	  17	  13	  13	  10	   3
+UNEQUIPPED                         A	   0	    0	    0	    0	    0	    0
+Knight Gauntlets                   A	   1	 41.1	 16.9	 19.4	  9.7	  3.5
+Elite Knight Gauntlets             A	   2	 43.6	 16.9	 19.4	 12.1	  3.7
+Wanderer Manchette                 A	   3	 33.9	   29	 36.2	 31.5	  2.1
+Black Leather Gloves               A	   4	 31.5	   29	 19.4	 21.8	  1.8
+Leather Gloves                     A	   5	   29	   29	 14.5	 31.5	  2.8
+Eastern Gauntlets                  A	   6	  9.3	  1.5	  6.2	  3.1	  1.5
+Shadow Gauntlets                   A	   7	 20.2	 10.8	   14	 15.5	  1.4
+Silver Knight Gauntlets            A	   8	 38.7	 18.6	 21.7	 24.8	  5.5
+Gauntlets of Favour                A	   9	 32.5	 15.5	 18.6	 12.4	    5
+Stone Gauntlets                    A	  10	   54	   27	   33	   33	 10.4
+Havel's Gauntlets                  A	  11	   54	   32	   32	   29	 11.5
+Hard Leather Gauntlets             A	   0	 31.5	   29	 16.9	 31.5	  3.5
+Leather Gauntlets                  A	   1	   29	 24.2	 19.4	  9.7	  3.6
+Brigand Gauntlets                  A	   2	 33.9	   29	 19.4	 24.2	  1.8
+Sorcerer Gauntlets                 A	   3	   29	 38.7	 19.4	 24.2	  1.3
+Black Sorcerer Gauntlets           A	   4	 19.4	 41.1	   29	   29	    1
+Tattered Cloth Manchette           A	   5	   29	 33.9	 43.6	 24.2	  1.6
+Traveling Gloves                   A	   6	 12.1	 12.1	    7	  9.7	  0.7
+Iron Bracelet                      A	   7	 41.1	 24.2	 24.2	 21.8	  4.3
+Black Iron Gauntlets               A	   8	   62	 26.4	 46.5	 20.2	  9.2
+Crystalline Gauntlets              A	   9	   37	   12	    9	    4	  6.4
+Crimson Gloves                     A	  10	 10.8	 10.8	  6.2	  7.8	  0.8
+Gold-Hemmed Black Gloves           A	  11	   12	   13	   24	    8	  1.2
+Maiden Gloves                      A	   0	 26.6	 31.5	 19.4	 24.2	  1.2
+Dingy Gloves                       A	   1	 21.8	 31.5	 19.4	 24.2	  1.2
+Black Knight Gauntlets             A	   2	 40.3	 21.7	 35.6	 12.4	    6
+Gauntlets of the Channelers        A	   3	   17	   13	   13	    0	    3
