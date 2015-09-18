@@ -1,6 +1,5 @@
 #ifndef ARRAYREADER_H_INCLUDED
 #define ARRAYREADER_H_INCLUDED
-#include "Head.h"
 
 string getElement(string element, int& counterReference);
 void interpret(string line, string (&strArray)[8]);

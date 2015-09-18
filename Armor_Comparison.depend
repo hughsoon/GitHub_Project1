@@ -37,9 +37,8 @@
 	<string>
 	<iostream>
 
-1441452706 /Users/hugh/GitHub/GitHub_Project1/Arrays/HeadArray.h
+1441492846 /Users/hugh/GitHub/GitHub_Project1/Arrays/HeadArray.h
 	"Head.h"
-	"ArrayReader.h"
 
 1440558408 /Users/hugh/GitHub/GitHub_Project1/Arrays/ChestArray.h
 	"Chest.h"
@@ -62,11 +61,13 @@
 
 1440558408 /Users/hugh/GitHub/GitHub_Project1/genID/GenID.h
 
-1441446643 source:/Users/hugh/GitHub/GitHub_Project1/ArrayReader.cpp
+1441493121 source:/Users/hugh/GitHub/GitHub_Project1/ArrayReader.cpp
 	<iostream>
 	<fstream>
 	<iostream>
 	<string>
+	"HeadArray.h"
+	"Head.h"
 
 1440558408 source:/Users/hugh/GitHub/GitHub_Project1/Arrays/ArmsArray.cpp
 	"ArmsArray.h"
@@ -77,8 +78,9 @@
 1440558408 source:/Users/hugh/GitHub/GitHub_Project1/Arrays/DataArray.cpp
 	"DataArray.h"
 
-1440558408 source:/Users/hugh/GitHub/GitHub_Project1/Arrays/HeadArray.cpp
+1441492984 source:/Users/hugh/GitHub/GitHub_Project1/Arrays/HeadArray.cpp
 	"HeadArray.h"
+	"ArrayReader.h"
 
 1440558408 source:/Users/hugh/GitHub/GitHub_Project1/Arrays/LegsArray.cpp
 	"LegsArray.h"
@@ -93,7 +95,7 @@
 	"Chest.h"
 	<iostream>
 
-1440558408 source:/Users/hugh/GitHub/GitHub_Project1/Pieces/Head.cpp
+1441463418 source:/Users/hugh/GitHub/GitHub_Project1/Pieces/Head.cpp
 	"Head.h"
 	<iostream>
 
@@ -101,7 +103,7 @@
 	"Legs.h"
 	<iostream>
 
-1441452685 /Users/hugh/GitHub/GitHub_Project1/ArrayReader.h
+1441493137 /Users/hugh/GitHub/GitHub_Project1/ArrayReader.h
 
 1440557446 /Users/hugh/GitHub/GitHub_Project1//Armour.h
 	"Head.h"
@@ -109,6 +111,7 @@
 	"Arms.h"
 	"Legs.h"
 
+<<<<<<< HEAD
 1442398566 source:/home/hugh/Documents/Projects/GitHub_Project1/Armour.cpp
 	"Armour.h"
 
@@ -281,4 +284,7 @@
 
 1442398566 source:/home/hugh/Documents/Projects/GitHub_Project1/Pieces/Armour.cpp
 	"Armour.h"
+=======
+1441493137 /Users/hugh/GitHub/GitHub_Project1//ArrayReader.h
+>>>>>>> bf8b4eb87577956c0c15349201bd9c0b5de4dfde
 
