@@ -29,8 +29,13 @@ Dingy Hood                         H	   1	   6	   8	   5	   6	 0.8
 Hollow Warrior Helm                H	   2	  10	   6	   5	   6	 2.6
 Hollow Soldier Helm                H	   3	  10	   6	   6	   4	   3
 Balder Helm                        H	   4	  14	   6	   8	   6	 4.2
+Steel Helm                         H	   4	  16	   8	   8	   5	 5.4
 Black Knight Helm                  H	   5	  21	  11	  18	   6	   5
 Six-Eyed Helm of the Channelers    H	   6	  20	  18	  17	  13	 3.9
+Cleric Helm                        H	   7	  15	   9	   8	   6	 4.8
+Smough's Helm                      H	   7	  40	  19	  26	  21	 6.8
+Giant Helm                         H	   7	  27	  13	  19	  13	 6.3
+Catarina Helm                      H	   7	  22	  12	  13	   7	 4.5
 Fang Boar Helm                     H	   7	  26	   5	   4	   4	   8
 Gargoyle Helm                      H	   8	  15	  15	  15	  15	 3.5
 Mask of the Child                  H	   9	   6	  10	   8	  10	 1.2

@@ -1,5 +1,6 @@
 #ifndef DATAARRAY_H_INCLUDED
 #define DATAARRAY_H_INCLUDED
+
 #include "Armour.h"
 class DataArray
 {

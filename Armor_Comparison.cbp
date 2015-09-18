@@ -17,6 +17,7 @@
 					<Add directory="Arrays" />
 					<Add directory="Pieces" />
 					<Add directory="genID" />
+					<Add directory="Enum" />
 				</Compiler>
 			</Target>
 			<Target title="Release">
@@ -36,29 +37,20 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="Armour.cpp" />
-		<Unit filename="Armour.h" />
-		<Unit filename="ArrayReader.cpp" />
-		<Unit filename="ArrayReader.h" />
-		<Unit filename="Arrays/ArmsArray.cpp" />
-		<Unit filename="Arrays/ArmsArray.h" />
-		<Unit filename="Arrays/ChestArray.cpp" />
-		<Unit filename="Arrays/ChestArray.h" />
+		<Unit filename="Arrays/ArrayReader.cpp" />
+		<Unit filename="Arrays/ArrayReader.h" />
 		<Unit filename="Arrays/DataArray.cpp" />
 		<Unit filename="Arrays/DataArray.h" />
-		<Unit filename="Arrays/HeadArray.cpp" />
-		<Unit filename="Arrays/HeadArray.h" />
-		<Unit filename="Arrays/LegsArray.cpp" />
-		<Unit filename="Arrays/LegsArray.h" />
-		<Unit filename="Pieces/Arms.cpp" />
-		<Unit filename="Pieces/Arms.h" />
-		<Unit filename="Pieces/Chest.cpp" />
-		<Unit filename="Pieces/Chest.h" />
-		<Unit filename="Pieces/Head.cpp" />
-		<Unit filename="Pieces/Head.h" />
-		<Unit filename="Pieces/Legs.cpp" />
-		<Unit filename="Pieces/Legs.h" />
-		<Unit filename="PureArmour.h" />
+		<Unit filename="Arrays/PieceArray.cpp" />
+		<Unit filename="Arrays/PieceArray.h" />
+		<Unit filename="Enum/EPiece.h" />
+		<Unit filename="Enum/EnumConverter.cpp" />
+		<Unit filename="Enum/EnumConverter.h" />
+		<Unit filename="Pieces/Armour.cpp" />
+		<Unit filename="Pieces/Armour.h" />
+		<Unit filename="Pieces/Piece.cpp" />
+		<Unit filename="Pieces/Piece.h" />
+		<Unit filename="Pieces/PureArmour.h" />
 		<Unit filename="genID/GenID.cpp" />
 		<Unit filename="genID/GenID.h" />
 		<Unit filename="main.cpp" />

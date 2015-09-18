@@ -32,3 +32,7 @@ Balder Armour                      C	   4	  37	  15	  18	  15	10.9
 Steel Armour                       C	   5	  42	  22	  21	  13	  14
 Black Knight Armour                C	   6	  57	  29	  48	  17	  13
 Robe of the Channelers             C	   7	  53	  45	  45	  35	10.1
+Cleric Armour                      C	   8	  40	  23	  21	  15	12.5
+Smough's Armour                    C	   9	 106	  52	  66	  59	17.6
+Giant Armour                       C	  10	  72	  32	  48	  33	16.4
+Catarina Armour                    C	  11	  57	  31	  37	  19	11.7

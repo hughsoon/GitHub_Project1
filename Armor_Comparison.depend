@@ -109,28 +109,25 @@
 	"Arms.h"
 	"Legs.h"
 
-1441465842 source:/home/hugh/Documents/Projects/GitHub_Project1/Armour.cpp
+1442398566 source:/home/hugh/Documents/Projects/GitHub_Project1/Armour.cpp
 	"Armour.h"
 
-1441465842 /home/hugh/Documents/Projects/GitHub_Project1/Armour.h
-	"Head.h"
-	"Chest.h"
-	"Arms.h"
-	"Legs.h"
+1442398544 /home/hugh/Documents/Projects/GitHub_Project1/Armour.h
+	"Piece.h"
 
-1441465842 /home/hugh/Documents/Projects/GitHub_Project1/Pieces/Head.h
+1442250937 /home/hugh/Documents/Projects/GitHub_Project1/Pieces/Head.h
 	<string>
 	<iostream>
 
-1441826504 /home/hugh/Documents/Projects/GitHub_Project1/Pieces/Chest.h
+1442250937 /home/hugh/Documents/Projects/GitHub_Project1/Pieces/Chest.h
 	<string>
 	<iostream>
 
-1441826426 /home/hugh/Documents/Projects/GitHub_Project1/Pieces/Arms.h
+1442250937 /home/hugh/Documents/Projects/GitHub_Project1/Pieces/Arms.h
 	<string>
 	<iostream>
 
-1441826492 /home/hugh/Documents/Projects/GitHub_Project1/Pieces/Legs.h
+1442250937 /home/hugh/Documents/Projects/GitHub_Project1/Pieces/Legs.h
 	<string>
 	<iostream>
 
@@ -141,22 +138,20 @@
 	<iomanip>
 	"GenID.h"
 
-1441826361 /home/hugh/Documents/Projects/GitHub_Project1/Arrays/HeadArray.h
+1442250937 /home/hugh/Documents/Projects/GitHub_Project1/Arrays/HeadArray.h
 	"Head.h"
 
-1441878393 /home/hugh/Documents/Projects/GitHub_Project1/ArrayReader.h
+1442250937 /home/hugh/Documents/Projects/GitHub_Project1/ArrayReader.h
 	"Head.h"
 
-1441465842 /home/hugh/Documents/Projects/GitHub_Project1/genID/GenID.h
+1442250937 /home/hugh/Documents/Projects/GitHub_Project1/genID/GenID.h
 
-1441881199 source:/home/hugh/Documents/Projects/GitHub_Project1/ArrayReader.cpp
+1442404319 source:/home/hugh/Documents/Projects/GitHub_Project1/ArrayReader.cpp
 	<iostream>
 	<fstream>
 	<string>
-	"Head.h"
-	"HeadArray.h"
 
-1441879052 source:/home/hugh/Documents/Projects/GitHub_Project1/Arrays/ArmsArray.cpp
+1442250937 source:/home/hugh/Documents/Projects/GitHub_Project1/Arrays/ArmsArray.cpp
 	<iostream>
 	<fstream>
 	<iomanip>
@@ -164,10 +159,10 @@
 	"GenID.h"
 	"ArmsArray.h"
 
-1441826317 /home/hugh/Documents/Projects/GitHub_Project1/Arrays/ArmsArray.h
+1442250937 /home/hugh/Documents/Projects/GitHub_Project1/Arrays/ArmsArray.h
 	"Arms.h"
 
-1441877481 source:/home/hugh/Documents/Projects/GitHub_Project1/Arrays/ChestArray.cpp
+1442250937 source:/home/hugh/Documents/Projects/GitHub_Project1/Arrays/ChestArray.cpp
 	<iostream>
 	<fstream>
 	<iomanip>
@@ -175,16 +170,16 @@
 	"GenID.h"
 	"ChestArray.h"
 
-1441826734 /home/hugh/Documents/Projects/GitHub_Project1/Arrays/ChestArray.h
+1442250937 /home/hugh/Documents/Projects/GitHub_Project1/Arrays/ChestArray.h
 	"Chest.h"
 
-1441465842 source:/home/hugh/Documents/Projects/GitHub_Project1/Arrays/DataArray.cpp
+1442250937 source:/home/hugh/Documents/Projects/GitHub_Project1/Arrays/DataArray.cpp
 	"DataArray.h"
 
-1441465842 /home/hugh/Documents/Projects/GitHub_Project1/Arrays/DataArray.h
+1442250937 /home/hugh/Documents/Projects/GitHub_Project1/Arrays/DataArray.h
 	"Armour.h"
 
-1441877444 source:/home/hugh/Documents/Projects/GitHub_Project1/Arrays/HeadArray.cpp
+1442250937 source:/home/hugh/Documents/Projects/GitHub_Project1/Arrays/HeadArray.cpp
 	<iostream>
 	<fstream>
 	<iomanip>
@@ -192,7 +187,7 @@
 	"GenID.h"
 	"HeadArray.h"
 
-1441877489 source:/home/hugh/Documents/Projects/GitHub_Project1/Arrays/LegsArray.cpp
+1442250937 source:/home/hugh/Documents/Projects/GitHub_Project1/Arrays/LegsArray.cpp
 	<iostream>
 	<fstream>
 	<iomanip>
@@ -200,37 +195,90 @@
 	"GenID.h"
 	"LegsArray.h"
 
-1441826745 /home/hugh/Documents/Projects/GitHub_Project1/Arrays/LegsArray.h
+1442250937 /home/hugh/Documents/Projects/GitHub_Project1/Arrays/LegsArray.h
 	"Legs.h"
 
-1441465842 source:/home/hugh/Documents/Projects/GitHub_Project1/genID/GenID.cpp
+1442250937 source:/home/hugh/Documents/Projects/GitHub_Project1/genID/GenID.cpp
 
-1441881014 source:/home/hugh/Documents/Projects/GitHub_Project1/main.cpp
-	"HeadArray.h"
-	"ChestArray.h"
-	"ArmsArray.h"
-	"LegsArray.h"
+1442413979 source:/home/hugh/Documents/Projects/GitHub_Project1/main.cpp
+	"PieceArray.h"
 	"DataArray.h"
 	"PureArmour.h"
 	"ArrayReader.h"
 	<iostream>
 
-1441465842 /home/hugh/Documents/Projects/GitHub_Project1/PureArmour.h
+1442250937 /home/hugh/Documents/Projects/GitHub_Project1/PureArmour.h
 	"Armour.h"
 
-1441826549 source:/home/hugh/Documents/Projects/GitHub_Project1/Pieces/Arms.cpp
+1442250937 source:/home/hugh/Documents/Projects/GitHub_Project1/Pieces/Arms.cpp
 	"Arms.h"
 	<iostream>
 
-1441826599 source:/home/hugh/Documents/Projects/GitHub_Project1/Pieces/Chest.cpp
+1442250937 source:/home/hugh/Documents/Projects/GitHub_Project1/Pieces/Chest.cpp
 	"Chest.h"
 	<iostream>
 
-1441465842 source:/home/hugh/Documents/Projects/GitHub_Project1/Pieces/Head.cpp
+1442250937 source:/home/hugh/Documents/Projects/GitHub_Project1/Pieces/Head.cpp
 	"Head.h"
 	<iostream>
 
-1441826603 source:/home/hugh/Documents/Projects/GitHub_Project1/Pieces/Legs.cpp
+1442250937 source:/home/hugh/Documents/Projects/GitHub_Project1/Pieces/Legs.cpp
 	"Legs.h"
 	<iostream>
+
+1442584729 source:/home/hugh/Documents/Projects/GitHub_Project1/Pieces/Piece.cpp
+	<iostream>
+	"Piece.h"
+
+1442584723 /home/hugh/Documents/Projects/GitHub_Project1/Pieces/Piece.h
+	<iostream>
+	<string>
+	"EPiece.h"
+
+1442339350 /home/hugh/Documents/Projects/GitHub_Project1/EPiece.h
+
+1442584420 source:/home/hugh/Documents/Projects/GitHub_Project1/Arrays/PieceArray.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	"ArrayReader.h"
+	"EPiece.h"
+	"GenID.h"
+	"PieceArray.h"
+	"EnumConverter.h"
+
+1442359773 /home/hugh/Documents/Projects/GitHub_Project1/Arrays/PieceArray.h
+	"Piece.h"
+
+1442584710 source:/home/hugh/Documents/Projects/GitHub_Project1/Enum/EnumConverter.cpp
+	"EPiece.h"
+	<iostream>
+
+1442411955 /home/hugh/Documents/Projects/GitHub_Project1/Arrays/ArrayReader.h
+	"Piece.h"
+
+1442398544 /home/hugh/Documents/Projects/GitHub_Project1/Pieces/Armour.h
+	"Piece.h"
+
+1442339350 /home/hugh/Documents/Projects/GitHub_Project1/Enum/EPiece.h
+
+1442250937 /home/hugh/Documents/Projects/GitHub_Project1/Pieces/PureArmour.h
+	"Armour.h"
+
+1442411718 source:/home/hugh/Documents/Projects/GitHub_Project1/Arrays/ArrayPrinter.cpp
+	"Arrays/PieceArray.h"
+	<string>
+	<fstream>
+	<iomanip>
+	"GenID.h"
+
+1442404319 source:/home/hugh/Documents/Projects/GitHub_Project1/Arrays/ArrayReader.cpp
+	<iostream>
+	<fstream>
+	<string>
+
+1442413562 /home/hugh/Documents/Projects/GitHub_Project1/Enum/EnumConverter.h
+
+1442398566 source:/home/hugh/Documents/Projects/GitHub_Project1/Pieces/Armour.cpp
+	"Armour.h"
 

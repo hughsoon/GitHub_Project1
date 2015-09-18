@@ -27,5 +27,11 @@ Crimson Wastecloth                 L	  10	  29	  29	  17	  21	 3.5
 Gold-Hemmed Black Skirt            L	  12	  23	  27	  49	  17	   3
 Maiden Skirt                       L	   0	  14	  27	  16	  21	 2.5
 Blood-Stained Skirt                L	   1	  13	  27	  16	  21	 2.5
+Balder Leggings                    L	   1	  22	  12	  14	   9	 6.4
+Steel Leggings                     L	   1	  25	  13	  12	   8	 8.3
 Black Knight Leggings              L	   2	  30	  15	  26	   9	   7
 Waistcloth of the Channelers       L	   3	  32	  27	  27	  20	   6
+Cleric Leggings                    L	   4	  24	  13	  12	   9	 7.4
+Smough's Leggings                  L	   5	  61	  31	  40	  33	10.4
+Giant Leggings                     L	   6	  41	  19	  29	  19	 9.7
+Catarina Leggings                  L	   7	  34	  18	  21	  12	 6.9

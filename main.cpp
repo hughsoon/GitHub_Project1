@@ -1,11 +1,9 @@
-#include "HeadArray.h"
-#include "ChestArray.h"
-#include "ArmsArray.h"
-#include "LegsArray.h"
-#include "DataArray.h"
-#include "PureArmour.h"
-#include "ArrayReader.h"
 #include <iostream>
+
+#include "ArrayReader.h"
+#include "DataArray.h"
+#include "PieceArray.h"
+#include "PureArmour.h"
 
 using namespace std;
 
@@ -16,23 +14,23 @@ int main()
     int fileLength;
 
     //Helmets
-    fileLength = getFileLength("Config/HeadConfig.txt");
-    HeadArray Helmets(fileLength);
+    fileLength = getFileLength("Congig/HeadConfig.txt");
+    PieceArray Helmets(fileLength);
     Helmets.readfile("Config/HeadConfig.txt");
 
     //Breastplates
     fileLength = getFileLength("Config/ChestConfig.txt");
-    ChestArray Breastplates(fileLength);
+    PieceArray Breastplates(fileLength);
     Breastplates.readfile("Config/ChestConfig.txt");
 
     //Gauntlets
     fileLength = getFileLength("Config/ArmsConfig.txt");
-    ArmsArray Gauntlets(fileLength);
+    PieceArray Gauntlets(fileLength);
     Gauntlets.readfile("Config/ArmsConfig.txt");
 
     //Greaves
     fileLength = getFileLength("Config/LegsConfig.txt");
-    LegsArray Greaves(fileLength);
+    PieceArray Greaves(fileLength);
     Greaves.readfile("Config/LegsConfig.txt");
 
 

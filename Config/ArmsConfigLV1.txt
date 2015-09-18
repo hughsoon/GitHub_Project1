@@ -26,5 +26,11 @@ Crimson Gloves                     A	  10	   7	   7	   4	   5	 0.8
 Gold-Hemmed Black Gloves           A	  11	  12	  13	  24	   8	 1.2
 Maiden Gloves                      A	   0	  11	  13	   8	  10	 1.2
 Dingy Gloves                       A	   1	   9	  13	   8	  10	 1.2
+Balder Gauntlets                   A	   1	  17	   7	   8	   5	 3.5
+Steel Gauntlets                    A	   1	  25	  13	  12	   8	 8.3
 Black Knight Gauntlets             A	   2	  26	  14	  23	   8	   6
 Gauntlets of the Channelers        A	   3	  17	  13	  13	  10	   3
+Cleric Gauntlets                   A	   4	  24	  23	  12	   9	 7.4
+Smough's Gauntlets                 A	   5	  61	  31	  40	  33	10.4
+Giant Gauntlets                    A	   6	  41	  19	  29	  19	 9.7
+Catarina Gauntlets                 A	   7	  34	  18	  21	  12	 6.9
